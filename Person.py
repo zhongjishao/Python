@@ -1,4 +1,4 @@
-#!
+#! new modify 2018-09-30 16:03
 class Person:
   def setName(self,name):
     self.name=name
